@@ -1,0 +1,19 @@
+ul.success li {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #d6e9c6;
+    border-radius: 4px;
+    color: #3c763d;
+    background-color: #dff0d8;
+    list-style: none;
+}
+
+ul.error li {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #ebccd1;
+    border-radius: 4px;
+    color: #a94442;
+    background-color: #f2dede;
+    list-style: none;
+}
