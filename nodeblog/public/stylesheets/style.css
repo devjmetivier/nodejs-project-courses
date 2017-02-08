@@ -88,3 +88,43 @@ a.more {
     color: #666;
     text-decoration: none;
 }
+
+input, select, textarea {
+    margin-bottom: 15px;
+}
+
+label {
+    display: inline-block;
+    width: 180px;
+}
+
+input[type='text'], select, textarea {
+    padding: 3px;
+    height: 20px;
+    width: 200px;
+    border: 1px solid #ccc;
+}
+
+select {
+    height: 28px;
+}
+
+textarea {
+    height: 70px;
+    width: 400px;
+}
+
+ul.success li{
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #d6e9c6;
+    border-radius: 4px;
+    color: #3c763d;
+    background-color: #dff0d8;
+    list-style: none;
+}
+
+.post img {
+    width: 100%;
+}
